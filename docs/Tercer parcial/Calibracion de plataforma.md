@@ -175,10 +175,4 @@ circles = cv2.HoughCircles(blurred, cv2.HOUGH_GRADIENT,
 | Bordes ruidosos      | GaussianBlur(7,7)         |
 
 ## Evidencias
-<img src="../recursos/imgs/hough_calibrador_demo.jpg" alt="Interfaz calibrador con slicers" width="420">
-
-<img src="../recursos/imgs/hough_platos_detectados.jpg" alt="Detección múltiple con mejor plato" width="420">
-
-<img src="../recursos/imgs/slicers_interactivos.jpg" alt="Panel slicers con cursor mouse" width="420">
-
-<img src="../recursos/imgs/hough_parametros_optimos.jpg" alt="Valores finales guardados" width="420">
+<img src="../recursos/imgs/Tercero/Calibracion_plataforma.jpeg" alt="Interfaz calibrador con slicers" width="420">
