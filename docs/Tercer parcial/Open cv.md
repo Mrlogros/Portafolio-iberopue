@@ -1,5 +1,5 @@
 ---
-title: Balanza PID 3D con OpenCV y Arduino
+title: Vision artificial con Open cv
 summary: Sistema completo de seguimiento visual que controla 3 servos mediante PID (X,Y,Área) con explicación detallada del código.
 hide:
   - navigation
