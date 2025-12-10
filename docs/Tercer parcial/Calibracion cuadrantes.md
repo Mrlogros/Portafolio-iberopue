@@ -1,5 +1,5 @@
 ---
-Prueba de 6 Cuadrantes Polares
+title: Prueba de 6 Cuadrantes Polares
 summary: Sistema de seguimiento visual con detección polar en 6 sectores de 60° + zonas centro, slicers interactivos y control PID para 3 servos.
 hide:
   - navigation
