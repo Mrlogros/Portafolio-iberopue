@@ -156,4 +156,4 @@ radio_lineas = 150    # Visualización sectores
 | Servos no responden | Serial | Verificar COM11/11520 |
 
 ## Evidencias
-<img src="../recursos/imgs/6_cuadrantes_polares.jpg" alt="6 sectores polares con líneas radiales" width="420">
+<img src="../recursos/imgs/Tercero/Test_cuadrantes.jpeg" alt="6 sectores polares con líneas radiales" width="420">
