@@ -367,14 +367,9 @@ print("✓ Sistema cerrado")
 ---
 
 ## Evidencias
-<img src="../recursos/imgs/balanza_pid_demo.jpg" alt="Interfaz con centros y valores PID" width="420">
+<img src="../recursos/imgs/Tercero/Deteccion.png" alt="Interfaz con centros y valores PID" width="420">
 
-<img src="../recursos/imgs/opencv_pipeline.jpg" alt="Pipeline detección visual completo" width="420">
-
-<img src="../recursos/imgs/serial_monitor.jpg" alt="Comandos seriales enviados" width="420">
-
-<img src="../recursos/imgs/camara_release_importante.jpg" alt="Diagrama liberación recursos" width="420">
-
+<img src="../recursos/imgs/Tercero/Rango_HSV.png_" alt="Interfaz con centros y valores PID" width="420">
 
 
 
